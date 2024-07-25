@@ -1,6 +1,6 @@
 # Lab2Graficas
 
-![Uploading Lab2Graficas2.gif…]()
+![Lab2Graficas2](https://github.com/user-attachments/assets/1a9b9f72-e6ca-4ee7-a806-583bed318375)
 
 # Conway's Game of Life in Rust
 
